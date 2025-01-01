@@ -36,12 +36,13 @@
 ### Statistics
 <div>
   <img alt="stats" align="left" width="50%" height="100%" src="https://github-readme-stats.vercel.app/api?username=sorakangi-i&hide=stars,contribs&count_private=true&show_icons=true&&theme=midnight-purple" />
-  <img align="left" width="32%" height="100%" src="http://mazassumnida.wtf/api/generate_badge?boj=sora102351" />
+  <img align="left" width="35%" src="http://mazassumnida.wtf/api/generate_badge?boj=sora102351" />
 </div>
 <div>
-  <img align="left" width="40%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sorakangi-i&hide=html,php&layout=compact&theme=midnight-purple" />
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sorakangi-i&hide=html,php&layout=compact&theme=midnight-purple" />
 </div>
 
+### 
 <div>
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsorakangi-i%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=%EB%B0%A9%EB%AC%B8%EC%9E%90%EC%88%98&edge_flat=true" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsorakangi-i%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=%EB%B0%A9%EB%AC%B8%EC%9E%90%EC%88%98&edge_flat=true" />
 </div>
