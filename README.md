@@ -5,7 +5,7 @@
   <a href="https://www.notion.so/sora2023/1657bdfaf7e380de8757c65eb06b197d"><img src="https://img.shields.io/badge/Notion-430098?style=for-the-badge&logo=Notion&logoColor=white"/></a>
 </div>
 
-### ⚙️Tech Stacks - FrontEnd
+### Tech Stacks - FrontEnd
 <div align="left" width="100%">
   <img src="https://img.shields.io/badge/HTML5-4B5562?style=for-the-badge&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=Vue.js&logoColor=4FC08D"/>
 </div>
 
-### ⚙️Tech Stacks - BackEnd
+### Tech Stacks - BackEnd
 <div align="left" width="100%">
   <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=GitHub&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-430098?style=for-the-badge&logo=MySQL&logoColor=white"/>
@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/>
 </div>
 
-### ⚙️Tech Stacks - Leaning
+### Tech Stacks - Leaning
 <div align="left" width="100%">
   <img src="https://img.shields.io/badge/springboot-092E20?style=for-the-badge&logo=springboot&logoColor=white"/> 
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=TypeScript&logoColor=white"/> 
