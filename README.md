@@ -1,5 +1,9 @@
 # I'm Web Programer Sora.
 
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsorakangi-i&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=%EB%B0%A9%EB%AC%B8%EC%9E%90%EC%88%98&edge_flat=true"/></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fwww.notion.so%2Fsora2023%2F1657bdfaf7e380de8757c65eb06b197d&count_bg=%2379C83D&title_bg=%23555555&icon=notion.svg&icon_color=%23FFFFFF&title=%EB%B0%A9%EB%AC%B8%EC%9E%90%EC%88%98&edge_flat=true"/></a>
+
+
 ### 🖐🏻Contact Me
 <div align=left>
   <a href="https://www.notion.so/sora2023/1657bdfaf7e380de8757c65eb06b197d"><img src="https://img.shields.io/badge/Notion-430098?style=for-the-badge&logo=Notion&logoColor=white"/></a>
@@ -42,7 +46,3 @@
   <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sorakangi-i&hide=html,php&layout=compact&theme=midnight-purple" />
 </div>
 
-### 
-<div>
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsorakangi-i%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=%EB%B0%A9%EB%AC%B8%EC%9E%90%EC%88%98&edge_flat=true" />
-</div>
