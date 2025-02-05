@@ -39,10 +39,6 @@
 
 ### Statistics
 <div>
-  <img alt="stats" align="left" width="50%" height="100%" src="https://github-readme-stats.vercel.app/api?username=sorakangi-i&hide=stars,contribs&count_private=true&show_icons=true&&theme=midnight-purple" />
-  <img align="left" width="35%" src="http://mazassumnida.wtf/api/generate_badge?boj=sora102351" />
-</div>
-<div>
   <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sorakangi-i&hide=php&layout=compact&theme=midnight-purple" />
 </div>
 
