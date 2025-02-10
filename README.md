@@ -37,8 +37,3 @@
   <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </div>
 
-### Statistics
-<div>
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sorakangi-i&hide=php&layout=compact&theme=midnight-purple" />
-</div>
-
