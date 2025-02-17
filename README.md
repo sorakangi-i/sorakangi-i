@@ -28,6 +28,5 @@
   <img src="https://img.shields.io/badge/Spring-092E20?style=for-the-badge&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/JUnit5-ED8B00?style=for-the-badge&logo=JUnit5&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring Security-CC342D?style=for-the-badge&logo=Spring Security&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/>
 </div>
 
