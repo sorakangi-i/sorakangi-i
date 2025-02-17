@@ -16,7 +16,6 @@
   <img src="https://img.shields.io/badge/HTML5-4B5562?style=for-the-badge&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=Vue.js&logoColor=4FC08D"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=React&logoColor=61DAFB"/>
 </div>
@@ -30,12 +29,5 @@
   <img src="https://img.shields.io/badge/JUnit5-ED8B00?style=for-the-badge&logo=JUnit5&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring Security-CC342D?style=for-the-badge&logo=Spring Security&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/>
-</div>
-
-### Tech Stacks - Leaning
-<div align="left" width="100%">
-  <img src="https://img.shields.io/badge/springboot-092E20?style=for-the-badge&logo=springboot&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=TypeScript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </div>
 
